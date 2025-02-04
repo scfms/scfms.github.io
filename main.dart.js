@@ -76828,7 +76828,7 @@ A.acD.prototype={
 tG(a){return this.Tr(a)},
 Tr(a){var s=0,r=A.H(t.bc),q,p=2,o,n,m,l,k,j,i,h,g,f
 var $async$tG=A.D(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:g="https://api.weatherapi.com/v1/current.json?key=0a0eb276591544a1846160604250601&q=calamba"+a
+s=p}while(true)switch(s){case 0:g="https://api.weatherapi.com/v1/current.json?key=0a0eb276591544a1846160604250601&q"+a
 p=4
 s=7
 return A.M(A.aKH(A.hj(g)),$async$tG)
